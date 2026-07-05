@@ -6,7 +6,7 @@
 
 🏆 Team Lead of **HackOps Crew**, with **20+ national hackathons** across IITs, IIITs, DTU, NSUT, GIM, and other premier institutions, turning ideas into production-ready prototypes under tight deadlines.
 
-🎓 Served as a **Student Volunteer** for the **University of Delhi ECA Admissions 2025**, contributing to the smooth conduct of the centralized undergraduate admissions process. :contentReference[oaicite:1]{index=1}
+🎓 Served as a **Student Volunteer** for the **University of Delhi ECA Admissions 2025**, contributing to the smooth conduct of the centralized undergraduate admissions process.
 
 🤝 Open to collaborating on **Full-Stack Development**, **Artificial Intelligence**, **Computer Vision**, **AI Agents**, **Cloud Applications**, and **Open Source Projects**.
 
