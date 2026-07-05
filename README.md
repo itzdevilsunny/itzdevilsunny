@@ -93,29 +93,44 @@
 
 ---
 
-## 🌐 Networking & IoT
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+## 🌐 Networking & AIoT :
+
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![AIoT](https://img.shields.io/badge/AIoT-0A66C2?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzdevilsunny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itzdevilsunny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdevilsunny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge)
+![Edge AI](https://img.shields.io/badge/Edge_AI-FF6F00?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzdevilsunny&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzdevilsunny&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdevilsunny&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itzdevilsunny&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=itzdevilsunny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itzdevilsunny&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📌 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=itzdevilsunny&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=itzdevilsunny&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sunny Prasad) 
+## 👀 Profile Views
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=itzdevilsunny&style=for-the-badge&color=0e75b6)
+
+## 💰 Support My Work
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourpaypalusername)
